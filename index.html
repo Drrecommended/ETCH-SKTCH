@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ETCH&SKTCH</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="grid">
+      <!--Title-->
+      <h1 class="game-title">ETCH & SKTCH</h1>
+      <!--Game board-->
+      <main class="container"></main>
+      <!--Controls-->
+      <div class="controls">
+        <input class="input-color" type="color" />
+        <input
+          type="range"
+          class="grid-input"
+          value="16"
+          id="grid-input"
+          orient="vertical"
+          name="vol"
+          min="10"
+          step="6"
+          max="100"
+        />
+        <button class="reset-btn">Clear board</button>
+
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
