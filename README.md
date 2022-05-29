@@ -1,7 +1,6 @@
 ![](./image/Screen%20Shot%202022-05-28%20at%206.18.06%20PM.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [CLICK HERE](https://drrecommended.github.io/advice-app/)
+- Live Site URL: [CLICK HERE](https://drrecommended.github.io/ETCH-SKTCH/)
 
 A little sketch pad I built for fun using HTML5, CSS, and Vanilla Javascipt.
 
